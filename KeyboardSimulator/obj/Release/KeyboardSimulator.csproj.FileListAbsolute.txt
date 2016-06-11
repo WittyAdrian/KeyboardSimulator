@@ -1,0 +1,13 @@
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\bin\Release\KeyboardSimulator.exe.config
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\bin\Release\KeyboardSimulator.exe.manifest
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\bin\Release\KeyboardSimulator.application
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\bin\Release\KeyboardSimulator.exe
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\bin\Release\KeyboardSimulator.pdb
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\obj\Release\KeyboardSimulator.Form1.resources
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\obj\Release\KeyboardSimulator.HelpForm.resources
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\obj\Release\KeyboardSimulator.Properties.Resources.resources
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\obj\Release\KeyboardSimulator.csproj.GenerateResource.Cache
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\obj\Release\KeyboardSimulator.exe.manifest
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\obj\Release\KeyboardSimulator.application
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\obj\Release\KeyboardSimulator.exe
+D:\Dropbox\Projects\KeyboardSimulator\KeyboardSimulator\obj\Release\KeyboardSimulator.pdb
