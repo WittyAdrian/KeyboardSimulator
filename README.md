@@ -1,1 +1,2 @@
 # KeyboardSimulator
+A small program that simulates input from your keyboard. Simply enter the input you wish to simulate and the hotkey with which you want to trigger it. Beside that there are a few options for timing, linebreaks and looping input.
