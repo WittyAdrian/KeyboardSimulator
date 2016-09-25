@@ -16,9 +16,9 @@ Do note that you'll need the .NET Framework for this to work.
 If you want to look at the main source code, you can find it in `KeyboardSimulator/Form1.cs` and if you want to run the entire project or fiddle around with it you'll need the entire repository. Enjoy!
 
 ## Usage
-Enter the text you want to simulate in the Output text box.
-Click the Record Hotkey button to select the hotkey you want to user as a trigger.
-Check the Repeat checkbox if you want the program to keep looping until you press the hotkey again.
-Enter a delay between each loop.
-Click the start button so the program start to listen to the hotkey you specified.
+Enter the text you want to simulate in the Output text box.  
+Click the Record Hotkey button to select the hotkey you want to user as a trigger.  
+Check the Repeat checkbox if you want the program to keep looping until you press the hotkey again.  
+Enter a delay between each loop.  
+Click the start button so the program start to listen to the hotkey you specified.  
 Now as soon as you press the hotkey the specified output will be simulated as if you entered it yourself.
