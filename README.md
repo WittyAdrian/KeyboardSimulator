@@ -22,3 +22,6 @@ Check the Repeat checkbox if you want the program to keep looping until you pres
 Enter a delay between each loop.  
 Click the start button so the program start to listen to the hotkey you specified.  
 Now as soon as you press the hotkey the specified output will be simulated as if you entered it yourself.
+
+Screenshot of the programs interface:
+![Program interface](http://i.imgur.com/rfZYitf.png)
